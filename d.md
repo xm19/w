@@ -5,7 +5,7 @@
 
 
 安卓版：
-- [官网下载](https://github.com/xm19/a/raw/master/xiaoming-2.1.4.apk "官网下载") 
+- [官网下载](https://down.iandroidapps.com/xiaoming-2.1.4.apk "官网下载") 
 - [谷歌市场](http://play.google.com/store/apps/details?id=com.xiaoming.vpn "谷歌市场")  
 
 
