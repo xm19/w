@@ -4,7 +4,7 @@
 ------
 
 Android Version：
-- [Github APK](https://down.androidapkshelp.com/file.php?id=com.xiaoming.vpnk) 
+- [Github APK](https://down.androidapkshelp.com/file.php?id=com.xiaoming.vpn) 
 - [Google Play Store](http://play.google.com/store/apps/details?id=com.xiaoming.vpn)  
 
 
